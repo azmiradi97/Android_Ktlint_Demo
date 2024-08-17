@@ -18,7 +18,7 @@ subprojects {
         android.set(true)
         outputToConsole.set(true)
         outputColorName.set("RED")
-        ignoreFailures.set(true)
+        ignoreFailures.set(false)
         enableExperimentalRules.set(false)
 
         reporters {

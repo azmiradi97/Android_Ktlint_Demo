@@ -4,10 +4,10 @@ import androidx.compose.runtime.Composable
 
 class User {
     // variable naming
-    val Gvvvvvvv = "Azmi"
+    val name = "Azmi"
 
     // spacing
-    fun GETNAME() {
+    fun getNam() {
     }
 
     // fun naming
@@ -16,7 +16,7 @@ class User {
     }
 
     @Composable
-    fun DDDD(): Float {
+    fun aod(): Float {
         return 0f
     }
 }
