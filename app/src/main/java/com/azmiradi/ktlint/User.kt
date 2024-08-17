@@ -2,7 +2,6 @@ package com.azmiradi.ktlint
 
 import androidx.compose.runtime.Composable
 
-@Suppress("ktlint:standard:property-naming")
 const val location = "sjkasdh"
 
 class User {
