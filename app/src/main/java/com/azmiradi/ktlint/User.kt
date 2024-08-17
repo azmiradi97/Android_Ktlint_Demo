@@ -16,7 +16,7 @@ class User {
     }
 
     @Composable
-    fun aod(): Float {
+    fun DDDD(): Float {
         return 0f
     }
 }
