@@ -4,7 +4,7 @@ import androidx.compose.runtime.Composable
 
 class User {
     // variable naming
-    val NAME = "Azmi"
+    val Gvvvvvvv = "Azmi"
 
     // spacing
     fun GETNAME() {
