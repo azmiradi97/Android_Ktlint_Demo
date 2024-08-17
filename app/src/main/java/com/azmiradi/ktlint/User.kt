@@ -4,8 +4,7 @@ import androidx.compose.runtime.Composable
 
 class User {
     // variable naming
-    @Suppress("ktlint:standard:property-naming")
-    val Name = "Azmi"
+    val name = "Azmi"
 
     // spacing
     fun getLocation() {
