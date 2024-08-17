@@ -7,7 +7,7 @@ class User {
     val NAME = "Azmi"
 
     // spacing
-    fun getNam() {
+    fun GETNAME() {
     }
 
     // fun naming
