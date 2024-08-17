@@ -7,12 +7,12 @@ class User {
     val name = "Azmi"
 
     // spacing
-    fun getNam() {
+    fun getLocation() {
     }
 
     // fun naming
     @Composable
-    fun SetName() {
+    fun SetAzmiName() {
     }
 
     @Composable
