@@ -2,7 +2,7 @@ package com.azmiradi.ktlint
 
 import androidx.compose.runtime.Composable
 
-const val location = "location"
+const val location = "egypt"
 
 class User {
     // variable naming
