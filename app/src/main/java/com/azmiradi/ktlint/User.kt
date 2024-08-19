@@ -2,13 +2,12 @@ package com.azmiradi.ktlint
 
 import androidx.compose.runtime.Composable
 
-const val location = "sjkasdh"
+const val location = "location"
 
 class User {
     // variable naming
     val name = "Azmi"
 
-    // spacing
     fun getLocation() {
     }
 
